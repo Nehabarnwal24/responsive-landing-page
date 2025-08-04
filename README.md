@@ -17,3 +17,6 @@ This project is a responsive landing page built using HTML, CSS, and JavaScript 
 | HTML5      | Structure of the webpage         |
 | CSS3       | Styling and responsiveness       |
 | JavaScript | Scroll and hover interactions    |
+
+<br>
+Neha Barnwal
